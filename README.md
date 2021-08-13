@@ -2,7 +2,7 @@
 This repo includes various Android apps I developed over the years.
 
 ## Baloot Counter
-![Baloot Counter](https://github.com/younes-alturkey/android-apps/blob/main/images/baloot.png)
+<img src="https://github.com/younes-alturkey/android-apps/blob/main/images/baloot.png" height="92"/>
 
 ## Battery Optimizer
 ![Battery Optimizer](https://github.com/younes-alturkey/android-apps/blob/main/images/battery.png)
