@@ -1,19 +1,14 @@
 # Android Apps
 This repo includes various Android apps I developed over the years.
 
-## Agent Zero: 2D Platformer
-![Agent Zero: 2D Platformer](https://github.com/younes-alturkey/my-videogames/blob/master/Screenshots/agent_zero_screenshot.png)
+## Baloot Counter
+![Baloot Counter](https://github.com/younes-alturkey/android-apps/blob/main/images/baloot.png)
 
-## Detective Onizuka: 2D Puzzle
-![Detective Onizuka](https://github.com/younes-alturkey/my-videogames/blob/master/Screenshots/detective_onizuka_screenshot.png)
+## Battery Optimizer
+![Battery Optimizer](https://github.com/younes-alturkey/android-apps/blob/main/images/battery.png)
 
-## Guts The Space Wanderer: 2D Platformer
-![Guts The Space Wanderer](https://github.com/younes-alturkey/my-videogames/blob/master/Screenshots/guts_the_space_wanderer_screenshot.png)
+## Paint
+![Paint](https://github.com/younes-alturkey/android-apps/blob/main/images/paint.png)
 
-
-## Lars The_Antivirus: 2D Platformer
-![Lars The_Antivirus](https://github.com/younes-alturkey/my-videogames/blob/master/Screenshots/lars_the_antivirus_screenshot.png)
-
-
-## The Smart Zombie: 2D Puzzle
-![The Smart Zombie](https://github.com/younes-alturkey/my-videogames/blob/master/Screenshots/the_smart_zombie_screenshot.png)
+## Walkie Talkie
+![Walkie Talkie](https://github.com/younes-alturkey/android-apps/blob/main/images/walkie-talkie-2.png)
